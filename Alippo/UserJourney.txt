@@ -1,0 +1,111 @@
+   
+   User Journey :-  Enrolling in a Handicrafts, Banking, Makeup Course on GrowSkill
+
+   1)  User Registration:-
+                        :-  The user visits the GrowSkill website.
+                        :-  They click on the "Sign Up" button to create a new account, If User already have an Account then "Sign In".
+                        :-  They fill in their details, including Name, Email, Phone, Qualification and password.
+                        :-  After successful registration, User receive a verification Email.
+
+
+   
+   2)  Email Verification:-
+                         :-  The user clicks on the verification link in their Email to confirm their account.
+
+
+
+   3)  Checking Courses:-
+                       :-  After That The user logs in to the GrowSkill platform.
+                       :-  They navigate to the "Courses" section.
+                       :-  They filter courses by category and choose the "Baking", "Handicrafts" and "makeup" category.
+
+
+
+   4)  Course Selection:-
+                       :-  The user selects a specific baking, Handicrafts and Makeup course that interests them.
+                       :-  They view details such as the course detail, instructor information, and pricing. 
+
+
+
+   5)  Enrollment:-
+                 :-  The user clicks on the "Enroll Now" button.
+                 :-  They are directed to a payment page where they provide payment details and complete the transaction.
+
+
+
+
+   6)  Confirmation:-
+                   :-  Once Upon payment successful done, then user receives a confirmation email with course details.
+
+
+
+
+   7)  Accessing Zoom Or Google Meet Link:-
+                                         :-  Before the scheduled class, the users logs in to their GrowSkill account.
+                                         :-  They navigate to the "My Courses" section, where they find the Zoom link Or Google Meet link for the upcoming class. 
+
+
+
+   8)  Attending the Live Class:- 
+                               :-  At the scheduled time, the user clicks on the Zoom Or Google Meet link to join the live baking, Handicrafts and Makeup class.
+
+
+
+
+   9)  Course/ Lecture Recordings:-
+                                 :-  After the live class, the user can access the recorded sessions within 1 hour in the "My Courses" section. 
+
+
+
+
+  10)  Exams & Assignments:-
+                          :-  For every lecture there will be a assignments for student practice.
+                          :-  In every week starting or ending there will be a one test or exam for candidates.
+
+
+
+
+  11)  Certificate Download:-
+                           :-  Once the course is completed, the user can download the course certificate from their account.
+
+
+
+
+ 
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      

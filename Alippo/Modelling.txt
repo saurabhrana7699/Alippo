@@ -1,0 +1,61 @@
+      
+      User Model:-
+      Attributes:-  UserID, Name, Email, Password, Qualification, Phone, Account Status
+
+
+      Course Model:-
+      Attributes:-  CourseID, Title, Category, InstructorID, Schedule, Price
+
+
+      Enrollment Model:-
+      Attributes:-  EnrollmentID, UserID, CourseID, PaymentStatus
+
+
+      Class Model:-
+      Attributes:-  ClassID, CourseID, Date, Time, Topic, ZoomLink/ Google Meet link
+
+
+      Recording Model:-
+      Attributes:-  RecordingID, ClassID, URL
+
+
+      Certificate Model:-
+      Attributes:-  CertificateID, UserID, CourseID, DownloadLink
+
+
+
+
+      Relationships:-
+
+      Each user can have multiple enrollments:-  One-to-Many 
+      Each course can have multiple classes:-  One-to-Many
+      An instructor can teach multiple courses:-  One-to-Many 
+      Each class has a unique Zoom link Or Google Meet link:-  One-to-One
+      Recordings are associated with specific classes:-   One-to-One
+      A user can have multiple certificates:-  One-to-Many
+
+
+
+
+      Data Types:-
+      UserID, CourseID, EnrollmentID, ClassID, RecordingID, CertificateID:-  Integer
+      Name, Email, Password, Account Status , Title, Category, Topic, ZoomLink, DownloadLink:-  String
+      Schedule, Date, Time:-  DateTime
+      Price:-  Decimal
+      PaymentStatus:-  Enum (e.g., Pending, Successful, Failed)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
